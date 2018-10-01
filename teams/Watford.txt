@@ -1,0 +1,12 @@
+Watford
+Orestis Karnezis,OK,73
+Daryl Janmaat,DJ,74
+Sebastian Prodl,SP,76
+Craig Cathcart,CC,74
+Adrian Mariappa,AM,72
+Etienne Capoue,EC,76
+Abdoulaye Douceur,AD,73
+Kiko Femenia,KF,74
+Will Hughes,WH,76
+Roberto Pereyra, RP,80
+Troy Deeney,TD,81

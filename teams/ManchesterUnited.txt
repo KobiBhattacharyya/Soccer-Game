@@ -1,0 +1,12 @@
+Manchester United
+David De-Gea,DD,86
+Chris Smalling,CS,84
+Victor Lindelof,VL,80
+Ashley Younng,AY,80
+Antonio Valencia,AV,81
+Ander Herrera,AH,82
+Nemanja Matic,NM,84
+Paul Pogba,PP,84
+Alexis Sanchez,AS,84
+Juan Mata,JM,84
+Romelu Lukaku,RL,87

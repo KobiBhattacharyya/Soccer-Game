@@ -1,0 +1,12 @@
+Chelsea
+Thibaut Courtois,TC,86
+Cesar Azpilicueta,CA,82
+Andreas Christensen,AC,78
+Antonio Rudiger,AR,83
+Victor Moses,VM,81
+Tiemonue Bakayoko,TB,81
+Eden Hazard,EH,95
+N'Golo Kante,NK,87
+Pedro,PP,80
+Willian,WW,87
+Alvaro Morata,AM,80

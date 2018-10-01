@@ -1,0 +1,12 @@
+Swansea City
+Lukas Fabianksi,LF,74
+Kyle Naughton,KN,72
+Federico Fernandez,FF,71
+Alfie Mawson,AM,74
+Martin Olsson,MO,78
+Luciano Narsingh,LN,71
+Sung-yeung Ki,SK,79
+Andy King,AK,79
+Ton Carroll,TC,74
+Andre Ayew,AA,81
+Jordan Ayew,JA,81

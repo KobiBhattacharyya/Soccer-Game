@@ -1,0 +1,12 @@
+West Ham
+Joe Hart,JH,80
+Declan Rice,DR,76
+Aaron CressWell,AC,78
+Angelo Ogbonna,AO,78
+Arthur Masuaku,AM,74
+Cheikhou Kouyate,CK,80
+Pablo Zabaleta,PZ,80
+Mark Noble,MN,80
+Joao Mario,JM,80
+Marko Arnautovic,MA,81
+Edimilson Fernandes,EF,76

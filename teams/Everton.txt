@@ -1,0 +1,12 @@
+Everton
+Jordan Pickford,JP,78
+Seamus Coleman,SC,74
+Phil Jagielka,PJ,80
+Michael Keane,MK,80
+Leighton Baines,LB,81
+Morgan Schneiderlin,MS,80
+Idrissa Gueye,IG,76
+Theo Walcott,TW,81
+Wayner Rooney,WR,82
+Yannick Bolasie,YB,83
+Cenk Tosun,CT,76

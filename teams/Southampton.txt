@@ -1,0 +1,12 @@
+Southampton
+Alex McCarthy,AM,76
+Jan Bednarek,JB,74
+Maya Yoshida,MY,79
+Wesley Hoedt,WH,72
+Cedric Soares,CS,81
+Oriol Romeu,OR,75
+Pierre-Emile Hojbjerg,PH,72
+Ryan Bertrand,RB,81
+James Ward-Prowse,JW,78
+Dusan Tadic,DT,80
+Shane Long,SL,82

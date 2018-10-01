@@ -1,0 +1,12 @@
+Arsenal
+Petr Cech,PC,82
+Calum Chambers,CC,78
+Rob Holding,RB,79
+Shkodran Mustafi,SM,81
+Nacho Monreal,NM,81
+Mohamed Elneny,ME,80
+Granit Xhaka,GX,82
+Joe Willcock,JW,76
+Alex Iwobi,AI,80
+Alexander Lacazette,AL,86
+Pierre-Emerick Aubameyang,PA,86

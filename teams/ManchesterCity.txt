@@ -1,0 +1,12 @@
+Manchester City
+Ederson,EE,83
+Kyle Walker,KW,84
+Vincent Kompany,VK,86
+Aymeric Laporte,AL,80
+Fabian Delph,FD,80
+Kevin De-Bruyne,KD,90
+Ilkay Gundogan,IG,84
+David Silva,DS,87
+Raheem Sterling,RS,85
+Gabriel Jesus,GJ,84
+Leroy Sane,LS,87

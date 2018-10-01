@@ -1,0 +1,12 @@
+Leicester City
+Kasper Schmeichel,KS,81
+Danny Simpson,DS,80
+Wes Morgan,WM,82
+Harry Maguire,HM,79
+Ben Chilwell,BC,76
+Riyad Mahrem,RM,83
+Hamza Choudhury,HC,76
+Adrien Silva,AS,75
+Demarai Gray,DG,79
+Shinji Okazaki,SO,81
+Jamie Vardy,JV,83

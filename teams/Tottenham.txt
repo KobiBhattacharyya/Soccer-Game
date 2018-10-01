@@ -1,0 +1,12 @@
+Tottenham
+Hugo Lloris,HL,84
+Kieran Trippier,KT,79
+Davinson Sanchez,DS,82
+Jan Vertonghen,JV,83
+Ben Davies,BD,79
+Mousa Dembele,MD,82
+Eric Dier,ED,83
+Erik Lamela,EL,82
+Christian Eriksen,CE,87
+Bamidele Alli,BA,82
+Harry Kane,HK,90

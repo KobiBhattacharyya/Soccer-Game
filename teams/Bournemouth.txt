@@ -1,0 +1,12 @@
+Bournemouth
+Asmir Begovic,AB,75
+Ryan Fraser,RF,78
+Simon Francis,SF,72
+Steve Cook,SC,77
+Nathan Ake,NA,79
+Charlie Daniels,CD,74
+Jordan Ibe,JI,79
+Lewis Cook,LC,78
+Dan Goslin, DG,75
+Joshua King,JK,80
+Jermain Defoe,JD,81

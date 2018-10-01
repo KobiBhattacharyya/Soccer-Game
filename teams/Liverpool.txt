@@ -1,0 +1,12 @@
+Liverpool
+Loris Karius,LK,80
+Trent Alexander-Arnold,TA,76
+Virgil Van Dijk,VV,86
+Dejan Lovren,DL,80
+Andrew Robertson,AR,81
+Emre Can,EC,83
+James Milner,JM,84
+Alex Oxlade-Chamberlin,AO,78
+Sadio Mane,SM,85
+Roberto Firmino,RF,87
+Mohammed Salah,MS,94

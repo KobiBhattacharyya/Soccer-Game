@@ -1,0 +1,12 @@
+West Brom
+Ben Foster,BF,80
+Kieran Gibbs,KG,79
+Ahmed Hegazi,AH,76
+Allan Nyom,AN,76
+Crig Dawson,CD,76
+James McClean,JM,78
+Matt Phillips,MP,77
+Jake Livermore,JL,73
+Chris Brunt,CB,72
+Jay Rodriguez,JR,71
+Salomon Rondon,SR,80

@@ -1,0 +1,12 @@
+Stoke City
+Jack Butland,JB,76
+Bruno Martins-Indi,BM,78
+Glen Johnson,GJ,76
+Erik Pieters,EP,74
+Ryan Shawcross,RS,76
+Moritz Bauer,MB,69
+Badou Ndiaye,BN,75
+Joe Allen,JA,80
+Ramadan Sobhi,RS,75
+Mame Biram-Diouf,MD,81
+Xherdan Shaqiri,XS,82
