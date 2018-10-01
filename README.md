@@ -27,6 +27,6 @@ Actions:
   
 Future improvements:
 
-  - Alter algorithm for distance factor (too easy to score... maybe vary by a factor of 1/r<sup>2</sup>?)
+  - Alter equation for distance factor (too easy to score... maybe vary by a factor of 1/r<sup>2</sup>?)
   - Update move and dribble to be clickable on the graphics panel, not the numerical input
   - Update cancel button so it loops back to previous input, instead of ending the game
