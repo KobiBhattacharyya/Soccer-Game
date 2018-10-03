@@ -1,5 +1,5 @@
 # Soccer-Game
-A text-based soccer game utilizing the Swing toolkit in Java
+A text-based soccer game utilizing the Swing toolkit in Java. Thanks to Gabe Poehls and Seneca Griffin.
 
 Use GameDriver.java to run the game
 
